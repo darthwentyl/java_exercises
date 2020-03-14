@@ -2,7 +2,7 @@
 For given point and given vertices of triangle the program checks if point is in triangle.
 
 # Solution
-The solution uses Heron's formula (https://en.wikipedia.org/wiki/Heron%27s_formula).
+The solution uses [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula).
 The algorithm has five steps:
 1. Calculate area for given triangle.
 2. Calculate area for triangle created by points A, B, p.
